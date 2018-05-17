@@ -1,2 +1,2 @@
 # ML-blob-master
-Python-numpy-scipy
+Python-numpy-scipy tutorial review
